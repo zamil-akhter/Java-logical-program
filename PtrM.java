@@ -1,0 +1,7 @@
+/* Print like this
+    a
+   bab
+  cbabc
+ dcbabcd
+edcbabcde
+*/

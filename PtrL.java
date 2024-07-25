@@ -1,0 +1,7 @@
+/* Print like this
+    A
+   ABA
+  ABCBA
+ ABCDCBA
+ABCDEDCBA
+*/
